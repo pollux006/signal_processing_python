@@ -2,7 +2,7 @@
 
 Small Signal processing projects using python
 
-  ##contents:
+  ## contents:
     1.lab1: basic python code practice
     2.lab2: LSI Systems (Convolution, data Correction, 1D Image Convolution, Edge Detector , 2D Image Convolution, Feature Detection, salt-and-pepper noise denoising )
     3.lab3: Z-Transform and LSI Systems (Transfer function, Marginal Stability, Inverse Filtering)
